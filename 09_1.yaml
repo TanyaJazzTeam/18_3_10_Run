@@ -9,5 +9,4 @@ my:
       cream:
         - sugar
         - milk
-        - muka
       composition: { dough: [eggs, sugar, flour], cream: [sugar, milk]}
