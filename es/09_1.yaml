@@ -3,7 +3,6 @@ my:
   cake:
     composition:
       dough:
-      - eggs
       - azúcar
       - flour
       cream:
